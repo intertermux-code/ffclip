@@ -1,6 +1,7 @@
 # ffclip
 
 [![ci](https://github.com/intertermux-code/ffclip/actions/workflows/ci.yml/badge.svg)](https://github.com/intertermux-code/ffclip/actions)
+[![pypi](https://img.shields.io/pypi/v/ffclip.svg)](https://pypi.org/project/ffclip/)
 
 Humane ffmpeg. The 10 media recipes everyone googles, with sane defaults —
 a thin wrapper with zero dependencies. ffmpeg and ffprobe do the real work
